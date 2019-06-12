@@ -1,11 +1,8 @@
-<!doctype html>
-<html>
+<!DOCTYPE HTML>
 <head>
-<meta charset="utf-8">
-<title></title>
+   <meta charset="utf-8">
+   <title>Крошечный документ HTML5</title>
 </head>
 <body>
- <p>Это я пытаюсь(</p>
-<img src="/test/lJTeXrT08mU.png">
+   <p>Дадим встряску браузеру в стиле HTML5!</p>
 </body>
-</html>
